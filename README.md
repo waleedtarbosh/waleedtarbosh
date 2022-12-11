@@ -11,9 +11,9 @@
     <p align="center">
     <br />
     <!-- Programmer Gif Image -->
-<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
-<a href="https://storyset.com/web">Web illustrations by Storyset</a>
-### About me
+<img align="right" width="350" src="file:///C:/Users/ASUS/Downloads/Programming-bro.svg" alt="Coding gif" />
+      
+      ### About me
 
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features<br/><br/>
