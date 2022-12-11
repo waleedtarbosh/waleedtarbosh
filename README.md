@@ -69,18 +69,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtarbosh&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-
-
-  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh " /> </p><br>
 <br>
   
-  
-
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
 
