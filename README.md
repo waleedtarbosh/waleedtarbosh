@@ -71,9 +71,9 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&locale=en" alt="waleedtarbosh  width="100%" " /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&locale=en" alt="waleedtarbosh" /></p> 
   
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedtarbosh&show_icons=true&locale=en&layout=compact" alt="waleedtarbosh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedtarbosh&show_icons=true&locale=en&layout=compact" alt="waleedtarbosh" /></p>
 
   
   
