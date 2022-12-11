@@ -3,7 +3,7 @@
 <br/>
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Front+End+Developer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
 </p>
 
