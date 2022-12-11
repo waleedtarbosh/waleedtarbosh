@@ -70,22 +70,12 @@
 
 
 
-
-
-##### 💪 Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-2c292d?style=for-the-badge&logo=apple&logoColor=ffffff"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-2c292d?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
-</p>
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
-  <a href="https://www.linkedin.com/in/ahmednageebmahmoud/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/AhmedNageebMahmoud/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-   <a href="mailto:ahmed.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://www.youtube.com/c/AhmedNageebMahmoud1"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
-  <a href="https://www.tiktok.com/@ahmednageebmahmoud"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201025249400" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+  <a href="https://www.linkedin.com/in/waleedtarbosh/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/waleedtarbush"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:waleedtarbush@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 
 </p>
 <br>
