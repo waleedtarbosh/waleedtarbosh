@@ -2,9 +2,6 @@
 <h3 align="center">A Junior Front End Developer From Palestine.</h3>
 
 
-
-<p align="left"> <a href="https://twitter.com/waleedtarbosh" target="blank"><img src="https://img.shields.io/twitter/follow/waleedtarbosh?logo=twitter&style=for-the-badge" alt="waleedtarbosh" /></a> </p>
-
 - 📫 How to reach me **waleedtarbush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
