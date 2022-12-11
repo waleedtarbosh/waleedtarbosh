@@ -11,7 +11,7 @@
     <p align="center">
     <br />
     <!-- Programmer Gif Image -->
-<img align="right" width="350" src="https://ibb.co/BsL4LsS" alt="Coding gif" />
+<img align="right" width="350" src="" alt="Coding gif" />
      
       ### About me
 
