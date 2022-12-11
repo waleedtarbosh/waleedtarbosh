@@ -12,7 +12,8 @@
     <br />
       
     <!-- Programmer Gif Image -->
-    <img align="right" width="350" src="assets/Programming-bro.png" alt="Coding gif" />
+    ![Programming-bro](https://user-images.githubusercontent.com/72128950/206884528-40ec48f5-a825-40c1-a5b3-841da054be47.png)
+![Uploading Programming-bro.png…]()
 
 
       
