@@ -60,11 +60,19 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedtarbosh&show_icons=true&locale=en&layout=compact" alt="waleedtarbosh" /></p>
 
+
+
+
+
+
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&locale=en" alt="waleedtarbosh" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh" /> </p>
 
 
-hi
+
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
