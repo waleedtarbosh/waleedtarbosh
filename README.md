@@ -2,8 +2,9 @@
 <h3 align="center">A c Front End Developer From Palestine.</h3>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Junior+Front+End+Developer+From+Palestine.&center=true&width=380&height=45"></a>
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Front+End+Developer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
 </p>
 
 
