@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waleed Tarbosh</h1>
 <h3 align="center">A Junior Front End Developer From Palestine.</h3>
 <br/>
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front+End+Developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
 </p>
 
 
