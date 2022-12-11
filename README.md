@@ -29,9 +29,21 @@
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
+<br>
+<br>
+
+<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
+</a>
 
 <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 </a>
+
+
+<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
+</a>
+ 
+
+
 
 
 
