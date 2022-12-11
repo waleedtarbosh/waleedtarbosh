@@ -67,8 +67,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&locale=en" alt="waleedtarbosh width="80"" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh width="80"" /> </p>
 
 
 
