@@ -10,8 +10,10 @@
     <summary> <h1>&#9776; About</h1></summary>
     <p align="center">
     <br />
+      
     <!-- Programmer Gif Image -->
-<img align="right" width="350" src="" alt="Coding gif" />
+
+      
      
       ### About me
 
