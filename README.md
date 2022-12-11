@@ -5,6 +5,32 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Front+End+Developer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
 </p>
 
+<!-- Details Section-->
+<details align="center">
+    <summary> <h1>&#9776; About</h1></summary>
+    <p align="center">
+        <p>Find me on</p>
+  
+  <a href="https://alsiam.com" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" /></a><a href="https://linkedin.com/in/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a><a href="https://dev.to/alsiam" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" /></a> <a href="https://twitter.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://instagram.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
+    <a href="https://facebook.com/alsiam.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  /></a> 
+    </p>
+    <br />
+    <!-- Programmer Gif Image -->
+<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+
+### About me
+
+✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp;Love to writing code and learning new features<br/><br/>
+📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
+💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+<p><br></p>
+    
+</details>
+
+
+
 
 - 📫 How to reach me **waleedtarbush@gmail.com**
 
