@@ -11,13 +11,13 @@
     <p align="center">
     <br />
     <!-- Programmer Gif Image -->
-<img align="right" width="350" src="[file:///C:/Users/ASUS/Downloads/Programming-bro.svg](https://storyset.com/illustration/programming/bro#C53F3FFF&hide=&hide=complete)" alt="Coding gif" />
+<img align="right" width="350" src="https://ibb.co/BsL4LsS" alt="Coding gif" />
      
       ### About me
 
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features<br/><br/>
-📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
+📧 &emsp;Reach me anytime: **waleedtarbush@gmail.com**<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 <p><br></p>
@@ -26,8 +26,6 @@
 
 
 
-
-- 📫 How to reach me **waleedtarbush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
