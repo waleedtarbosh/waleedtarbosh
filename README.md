@@ -36,19 +36,19 @@
 <!-- Programming Languages -->
 <!-- Code logo -->
 
-<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
+<a href="https://github.com/waleedtarbosh?tab=repositories" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
 </a>
 
-<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+<a href="https://github.com/waleedtarbosh?tab=repositories" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 </a>
 
 
-<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
+<a href="https://github.com/waleedtarbosh?tab=repositories" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
 </a>
  
 
 
-<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<a href="https://github.com/waleedtarbosh?tab=repositories" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
 
@@ -60,9 +60,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedtarbosh&show_icons=true&locale=en&layout=compact" alt="waleedtarbosh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedtarbosh&show_icons=true&locale=en" alt="waleedtarbosh " /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh " /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedtarbosh&show_icons=true&locale=en&layout=compact" alt="waleedtarbosh" /></p>
 
 
 
