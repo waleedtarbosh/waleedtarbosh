@@ -12,7 +12,7 @@
     <br />
       
     <!-- Programmer Gif Image -->
-    <img align="right" width="350" src="/assets/Programming-bro (2).svg" alt="Coding gif" />
+    <img align="right" width="350" src="assets/Programming-bro.png" alt="Coding gif" />
 
 
       
