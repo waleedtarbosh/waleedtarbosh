@@ -75,11 +75,6 @@
   
   
   
-    <!-- hitwebcounter Code START -->
-<p
-<img src="https://hitwebcounter.com/counter/counter.php?page=8109430&style=0010&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></p><br>
-  
-  
   
   
   
