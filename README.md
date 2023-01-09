@@ -71,12 +71,6 @@
 </div>
   
   
-<img src = "https://github-readme-stats.vercel.app/api?username=waleedtarbosh&count_private=true&theme=dracula&hide_border=true" alt = "waleedtarbosh's Contribution" width = 400 >
-  
-  
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=waleedtarbosh&count_private=true&theme=dracula&hide_border=true" alt = "waleedtarbosh's Rating" width = 400 >
-
-</p>
   
   
   
