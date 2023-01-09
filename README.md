@@ -70,6 +70,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtarbosh&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+    <img src = "https://github-readme-stats.vercel.app/api?username=waleedtarbosh&count_private=true&theme=dracula&hide_border=true" alt = "waleedtarbosh's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=waleedtarbosh&count_private=true&theme=dracula&hide_border=true" alt = "waleedtarbosh's Rating" width = 400 >
+
+</p>
+  
+  
+  
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh " /> </p><br>
 <br>
   
