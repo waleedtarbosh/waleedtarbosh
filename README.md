@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Waleed Tarbosh</h1>
 <br/>
 <br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Front+End+Developer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
 </p>
