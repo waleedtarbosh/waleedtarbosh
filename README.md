@@ -80,14 +80,13 @@
     
 </div>
   
+<p align="center"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/waleedtarbosh)
+</p><br>
   
-  <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/waleedtarbosh)
-  </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh " /> </p><br>
+<br>
   
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{waleedtarbosh}/count.svg" alt="waleedtarbosh :: Visitor's Count" /></p>
-<br/>
   
   
   
