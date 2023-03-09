@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Waleed Tarbosh</h1>
-<br/>
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+%3C3" alt="Title"></img>
 </div>
+
+<h1 align="center">👋, I'm Waleed Tarbosh</h1>
+<br/>
+<br/>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+Front+End+Developer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
