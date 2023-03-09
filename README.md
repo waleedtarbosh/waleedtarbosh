@@ -81,13 +81,10 @@
 </div>
   
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/waleedtarbosh)
   
   
-  
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&label=Profile%20views&color=b4190e&style=plastic" alt="waleedtarbosh " /> </p><br>
-<br>
-  
+
   
   
   
