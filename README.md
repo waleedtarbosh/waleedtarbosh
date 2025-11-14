@@ -24,10 +24,11 @@
 
 ### About me
 
-✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp;Love to writing code and learning new features<br/><br/>
-📧 &emsp;Reach me anytime: **waleedtarbush@gmail.com**<br/><br/>
-💬 &emsp;Ask me about anything [here](https://www.facebook.com/waleedtarbush)
+<p>
+  ✌️ &emsp; Enjoy programming and sharing knowledge.<br/><br/>
+  ❤️ &emsp; Love writing code and learning new features.<br/><br/>
+  📧 &emsp; Feel free to reach out: <a href="mailto:waleedtarbush@gmail.com"><strong>waleedtarbush@gmail.com</strong></a>
+</p>
 
 <p><br></p>
     
