@@ -51,34 +51,65 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack
 
 #### 🖥️ Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,redux" alt="Front-End" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub></td>
+</tr>
+</table>
 
 #### 🎨 Style & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap,sass,figma,materialui" alt="Style & Design" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /><br><sub><b>Sass</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" /><br><sub><b>MUI</b></sub></td>
+</tr>
+</table>
 
 #### ⚙️ Back-End
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Back-End" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub><b>Express</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
+</tr>
+</table>
 
 #### 🗄️ Database / ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase" alt="Database / ORM" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br><sub><b>Prisma</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
+</tr>
+</table>
 
 #### 🔀 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
+</tr>
+</table>
 
 #### 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress" alt="Testing" />
-</p>
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br><sub><b>Jest</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" /><br><sub><b>Cypress</b></sub></td>
+</tr>
+</table>
 
 ---
 
