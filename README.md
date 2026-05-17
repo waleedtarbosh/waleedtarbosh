@@ -23,7 +23,7 @@
 
 <!-- ===== ABOUT ===== -->
 
-### `> whoami`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> &nbsp;About Me
 
 <table>
 <tr>
@@ -50,7 +50,7 @@
 
 <!-- ===== TECH STACK ===== -->
 
-### `> tech_stack`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack
 
 <table>
 <tr>
@@ -137,7 +137,7 @@
 
 <!-- ===== GITHUB STATS ===== -->
 
-### `> github_stats`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics
 <div align="center">
   <img height="175" src="https://github-readme-stats-salesp07.vercel.app/api?username=waleedtarbosh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
