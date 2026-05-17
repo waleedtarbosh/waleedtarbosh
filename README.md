@@ -59,6 +59,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br><sub><b>jQuery</b></sub></td>
 </tr>
 </table>
 
