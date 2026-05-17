@@ -134,7 +134,7 @@
 
 <!-- ===== PROJECTS ===== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> &nbsp;Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Projects
 
 #### 👤 Solo Projects
 | Project Name | Description | Tech Stack | Links |
