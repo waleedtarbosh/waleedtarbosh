@@ -135,7 +135,7 @@
 #### 🧩 Miscellaneous
 <table>
 <tr>
-  <!-- Add your miscellaneous badges/icons here using the same <td> structure -->
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub></td>
 </tr>
 </table>
 
