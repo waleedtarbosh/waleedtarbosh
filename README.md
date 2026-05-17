@@ -53,11 +53,11 @@
 #### 🖥️ Front-End
 <table>
 <tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub></td>
 </tr>
 </table>
@@ -70,7 +70,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /><br><sub><b>Sass</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" /><br><sub><b>MUI</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="React MUI" /><br><sub><b>React MUI</b></sub></td>
 </tr>
 </table>
 
@@ -92,6 +92,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br><sub><b>Prisma</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" width="48" height="48" alt="phpMyAdmin" /><br><sub><b>phpMyAdmin</b></sub></td>
 </tr>
 </table>
 
@@ -108,6 +109,19 @@
 <tr>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br><sub><b>Jest</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" /><br><sub><b>Cypress</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub></td>
+</tr>
+</table>
+
+#### 🚀 Tools & Platforms
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br><sub><b>Vite</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" /><br><sub><b>NPM</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br><sub><b>Netlify</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=stripe" width="48" height="48" alt="Stripe" /><br><sub><b>Stripe</b></sub></td>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="48" height="48" alt="JSON" /><br><sub><b>JSON</b></sub></td>
 </tr>
 </table>
 
