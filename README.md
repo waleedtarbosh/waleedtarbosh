@@ -132,6 +132,24 @@
 
 ---
 
+<!-- ===== PROJECTS ===== -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> &nbsp;Projects
+
+#### 👤 Solo Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Project 1 Name](#)** | Short description of your awesome solo project goes here. | React, Node.js, CSS | [Live Demo](#) • [Source Code](#) |
+| **[Project 2 Name](#)** | Short description of your awesome solo project goes here. | HTML, JS, Tailwind | [Live Demo](#) • [Source Code](#) |
+
+#### 👥 Team Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Project A Name](#)** | Short description of the collaborative team project. | Next.js, Firebase | [Live Demo](#) • [Source Code](#) |
+| **[Project B Name](#)** | Short description of the collaborative team project. | React, MongoDB | [Live Demo](#) • [Source Code](#) |
+
+---
+
 <!-- ===== GITHUB STATS ===== -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics
