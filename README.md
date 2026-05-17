@@ -90,7 +90,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br><sub><b>Prisma</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
-  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" width="48" height="48" alt="phpMyAdmin" /><br><sub><b>phpMyAdmin</b></sub></td>
+  <td align="center" width="96"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /><br><sub><b>phpMyAdmin</b></sub></td>
 </tr>
 </table>
 
@@ -119,7 +119,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br><sub><b>Netlify</b></sub></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br><sub><b>Stripe</b></sub></td>
-  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="48" height="48" alt="JSON" /><br><sub><b>JSON</b></sub></td>
+  <td align="center" width="96"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" /><br><sub><b>JSON</b></sub></td>
 </tr>
 </table>
 
