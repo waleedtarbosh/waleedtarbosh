@@ -16,8 +16,7 @@
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/waleedtarbosh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:waleedtarbush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&style=flat-square&color=58A6FF&label=Visitors" alt="Profile Views"/>
+  <a href="mailto:waleedtarbush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
