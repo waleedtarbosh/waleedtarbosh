@@ -30,14 +30,15 @@
 <tr>
 <td width="55%">
 
-I'm a **Front-End Developer** passionate about crafting clean, responsive, and user-centric web applications.
+### About me
 
-I focus on translating complex requirements into intuitive interfaces, writing maintainable code, and staying current with the evolving front-end ecosystem.
-
-- 🔭 &nbsp;Currently building modern **React** & **TypeScript** applications
-- 🌱 &nbsp;Exploring **Next.js**, advanced state management & performance optimization
-- 💡 &nbsp;Committed to clean architecture and best practices
-- 📫 &nbsp;Reach me at **[waleedtarbush@gmail.com](mailto:waleedtarbush@gmail.com)**
+<p>
+  ✌️ &emsp; Enjoy programming and sharing knowledge.<br/><br/>
+  ❤️ &emsp; Love writing code and learning new features.<br/><br/>
+  🔭 &emsp; Currently building modern <b>React</b> & <b>TypeScript</b> applications.<br/><br/>
+  🌱 &emsp; Exploring <b>Next.js</b>, advanced state management & performance optimization.<br/><br/>
+  📧 &emsp; Feel free to reach out: <a href="mailto:waleedtarbush@gmail.com"><strong>waleedtarbush@gmail.com</strong></a>
+</p>
 
 </td>
 <td width="45%">
