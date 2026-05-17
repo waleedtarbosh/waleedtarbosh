@@ -139,14 +139,17 @@
 #### 👤 Solo Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project 1 Name](#)** | Short description of your awesome solo project goes here. | React, Node.js, CSS | [Live Demo](#) • [Source Code](#) |
-| **[Project 2 Name](#)** | Short description of your awesome solo project goes here. | HTML, JS, Tailwind | [Live Demo](#) • [Source Code](#) |
+| **[Instagram Clone](https://github.com/waleedtarbosh/Instagram-Clone)** | A fully functional Instagram clone with core social features. | JavaScript | [Source Code](https://github.com/waleedtarbosh/Instagram-Clone) |
+| **[TimeZone](https://github.com/waleedtarbosh/TimeZone)** | A time tracking or timezone management application. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/TimeZone) |
+| **[Medical Center](https://github.com/waleedtarbosh/MedicalCenter)** | An informational website and portal for a medical center. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/MedicalCenter) |
+| **[Portfolio Bootstrap](https://github.com/waleedtarbosh/PortfolioBootstrap)** | A responsive personal developer portfolio built with Bootstrap. | HTML, Bootstrap | [Source Code](https://github.com/waleedtarbosh/PortfolioBootstrap) |
+| **[Agrica](https://github.com/waleedtarbosh/Agrica)** | An agriculture-focused web project with clean UI. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Agrica) |
+| **[ProSports (Pre-Work)](https://github.com/waleedtarbosh/Advanced-Pre-Work)** | A dynamic football stats website powered by API-Football. | JS, CSS, HTML | [Live Demo](https://prosports-football.netlify.app/) • [Source](https://github.com/waleedtarbosh/Advanced-Pre-Work) |
 
 #### 👥 Team Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project A Name](#)** | Short description of the collaborative team project. | Next.js, Firebase | [Live Demo](#) • [Source Code](#) |
-| **[Project B Name](#)** | Short description of the collaborative team project. | React, MongoDB | [Live Demo](#) • [Source Code](#) |
+| **[E-Commerce Platform](https://github.com/waleedtarbosh/E-commerce)** | A collaborative e-commerce application with shopping cart features. | JavaScript | [Source Code](https://github.com/waleedtarbosh/E-commerce) |
 
 ---
 
