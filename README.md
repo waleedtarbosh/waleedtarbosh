@@ -118,7 +118,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" /><br><sub><b>NPM</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br><sub><b>Netlify</b></sub></td>
-  <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="48" height="48" alt="Stripe" /><br><sub><b>Stripe</b></sub></td>
+  <td align="center" width="96"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br><sub><b>Stripe</b></sub></td>
   <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="48" height="48" alt="JSON" /><br><sub><b>JSON</b></sub></td>
 </tr>
 </table>
