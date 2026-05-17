@@ -173,6 +173,8 @@
     <a href="https://www.linkedin.com/in/waleedtarbosh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
     <a href="mailto:waleedtarbush@gmail.com?subject=[GitHub]%20🔥%20Let's%20Connect&body=Hello%20Waleed,"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <!-- ===== FOOTER ===== -->
