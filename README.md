@@ -96,14 +96,11 @@ values:
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> &nbsp;Let's Connect
 
 <div align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38C2FF" alt="Website"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/waleedtarbosh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/waleedtarbosh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>&nbsp;
-  <a href="https://www.facebook.com/waleedtarbush" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>&nbsp;
   <a href="mailto:waleedtarbush@gmail.com?subject=[GitHub]%20🔥%20Profile%20Contact&body=Hello%20Waleed,">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
