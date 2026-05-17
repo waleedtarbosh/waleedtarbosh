@@ -154,7 +154,7 @@
 | **[Portfolio Bootstrap](https://github.com/waleedtarbosh/PortfolioBootstrap)** | A responsive personal developer portfolio built with Bootstrap. | HTML, Bootstrap | [Source Code](https://github.com/waleedtarbosh/PortfolioBootstrap) |
 | **[Agrica](https://github.com/waleedtarbosh/Agrica)** | An agriculture-focused web project with clean UI. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Agrica) |
 | **[ProSports (Pre-Work)](https://github.com/waleedtarbosh/Advanced-Pre-Work)** | A dynamic football stats website powered by API-Football. | JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Advanced-Pre-Work) |
-| **[Todo List](https://github.com/waleedtarbosh/todo-list)** | A task management and to-do list application. | React | [Source Code](https://github.com/waleedtarbosh/todo-list) |
+| **[Todo List](https://github.com/waleedtarbosh/todo-list)** | A task management and to-do list application. | React, JS | [Source Code](https://github.com/waleedtarbosh/todo-list) |
 
 #### 👥 Team Projects
 | Project Name | Description | Tech Stack | Links |
