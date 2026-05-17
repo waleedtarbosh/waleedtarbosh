@@ -50,6 +50,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack
 
+#### 🔠 Languages
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
+</tr>
+</table>
+
 #### 🖥️ Front-End
 <table>
 <tr>
