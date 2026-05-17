@@ -29,8 +29,6 @@
 <tr>
 <td width="55%">
 
-### About me
-
 <p>
   ✌️ &emsp; Enjoy programming and sharing knowledge.<br/><br/>
   ❤️ &emsp; Love writing code and learning new features.<br/><br/>
