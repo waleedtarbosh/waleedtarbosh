@@ -139,7 +139,7 @@
 #### 👤 Solo Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Instagram Clone](https://github.com/waleedtarbosh/Instagram-Clone)** | A fully functional Instagram clone with core social features. | JavaScript | [Source Code](https://github.com/waleedtarbosh/Instagram-Clone) |
+| **[Instagram Clone](https://github.com/waleedtarbosh/Instagram-Clone)** | A fully functional Instagram clone with core social features. | React, JS | [Source Code](https://github.com/waleedtarbosh/Instagram-Clone) |
 | **[TimeZone](https://github.com/waleedtarbosh/TimeZone)** | A time tracking or timezone management application. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/TimeZone) |
 | **[Medical Center](https://github.com/waleedtarbosh/MedicalCenter)** | An informational website and portal for a medical center. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/MedicalCenter) |
 | **[Portfolio Bootstrap](https://github.com/waleedtarbosh/PortfolioBootstrap)** | A responsive personal developer portfolio built with Bootstrap. | HTML, Bootstrap | [Source Code](https://github.com/waleedtarbosh/PortfolioBootstrap) |
@@ -149,7 +149,7 @@
 #### 👥 Team Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[E-Commerce Platform](https://github.com/waleedtarbosh/E-commerce)** | A collaborative e-commerce application with shopping cart features. | JavaScript | [Source Code](https://github.com/waleedtarbosh/E-commerce) |
+| **[E-Commerce Platform](https://github.com/waleedtarbosh/E-commerce)** | A collaborative e-commerce application with shopping cart features. | React, JS | [Source Code](https://github.com/waleedtarbosh/E-commerce) |
 
 ---
 
