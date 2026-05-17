@@ -157,11 +157,6 @@ I focus on translating complex requirements into intuitive interfaces, writing m
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleedtarbosh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=161b22" width="95%" alt="Activity Graph"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waleedtarbosh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies"/>
-</div>
 
 ---
 
