@@ -79,8 +79,6 @@
 <tr>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub><b>Express</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
 </tr>
 </table>
 
