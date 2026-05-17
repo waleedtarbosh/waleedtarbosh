@@ -144,7 +144,7 @@
 | **[Medical Center](https://github.com/waleedtarbosh/MedicalCenter)** | An informational website and portal for a medical center. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/MedicalCenter) |
 | **[Portfolio Bootstrap](https://github.com/waleedtarbosh/PortfolioBootstrap)** | A responsive personal developer portfolio built with Bootstrap. | HTML, Bootstrap | [Source Code](https://github.com/waleedtarbosh/PortfolioBootstrap) |
 | **[Agrica](https://github.com/waleedtarbosh/Agrica)** | An agriculture-focused web project with clean UI. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Agrica) |
-| **[ProSports (Pre-Work)](https://github.com/waleedtarbosh/Advanced-Pre-Work)** | A dynamic football stats website powered by API-Football. | JS, CSS, HTML | [Live Demo](https://prosports-football.netlify.app/) • [Source](https://github.com/waleedtarbosh/Advanced-Pre-Work) |
+| **[ProSports (Pre-Work)](https://github.com/waleedtarbosh/Advanced-Pre-Work)** | A dynamic football stats website powered by API-Football. | JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Advanced-Pre-Work) |
 
 #### 👥 Team Projects
 | Project Name | Description | Tech Stack | Links |
