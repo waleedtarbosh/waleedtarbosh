@@ -130,6 +130,13 @@
 </tr>
 </table>
 
+#### 🧩 Miscellaneous
+<table>
+<tr>
+  <!-- Add your miscellaneous badges/icons here using the same <td> structure -->
+</tr>
+</table>
+
 ---
 
 <!-- ===== GITHUB STATS ===== -->
