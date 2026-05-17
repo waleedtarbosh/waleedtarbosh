@@ -165,9 +165,9 @@
     &nbsp;Let's build something great together
   </h3>
   <p>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/waleedtarbosh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="mailto:waleedtarbush@gmail.com?subject=[GitHub]%20🔥%20Let's%20Connect&body=Hello%20Waleed,"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:waleedtarbush@gmail.com?subject=[GitHub]%20🔥%20Let's%20Connect&body=Hello%20Waleed,"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   </p>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=waleedtarbosh&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
