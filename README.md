@@ -139,8 +139,13 @@
 <!-- ===== GITHUB STATS ===== -->
 
 ### `> github_stats`
+<div align="center">
+  <img height="175" src="https://github-readme-stats-salesp07.vercel.app/api?username=waleedtarbosh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="175" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=waleedtarbosh&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+</div>
 
-
+<br/>
 
 
 <div align="center">
