@@ -112,10 +112,16 @@
 </tr>
 </table>
 
+#### 💻 Local Development Server
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br><sub><b>Vite</b></sub></td>
+</tr>
+</table>
+
 #### 🚀 Tools & Platforms
 <table>
 <tr>
-  <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br><sub><b>Local Dev Server<br>(Vite)</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" /><br><sub><b>NPM</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br><sub><b>Netlify</b></sub></td>
