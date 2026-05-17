@@ -105,8 +105,6 @@
 #### 🧪 Testing
 <table>
 <tr>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br><sub><b>Jest</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" /><br><sub><b>Cypress</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub></td>
 </tr>
 </table>
