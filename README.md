@@ -36,7 +36,7 @@
   ✌️ &emsp; Enjoy programming and sharing knowledge.<br/><br/>
   ❤️ &emsp; Love writing code and learning new features.<br/><br/>
   🔭 &emsp; Currently building modern web applications.<br/><br/>
-  🌱 &emsp; Exploring <b>Next.js</b>, advanced state management & performance optimization.<br/><br/>
+  🌱 &emsp; Exploring AI integration and emerging modern technologies.<br/><br/>
   📧 &emsp; Feel free to reach out: <a href="mailto:waleedtarbush@gmail.com"><strong>waleedtarbush@gmail.com</strong></a>
 </p>
 
