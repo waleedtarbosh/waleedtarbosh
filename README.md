@@ -146,21 +146,44 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Projects
 
-#### 👤 Solo Projects
+### 👤 Solo Projects
+
+#### ⚛️ React Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[Instagram Clone](https://github.com/waleedtarbosh/Instagram-Clone)** | A fully functional Instagram clone with core social features. | React, JS | [Source Code](https://github.com/waleedtarbosh/Instagram-Clone) |
-| **[TimeZone](https://github.com/waleedtarbosh/TimeZone)** | A time tracking or timezone management application. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/TimeZone) |
+| **[Todo List](https://github.com/waleedtarbosh/todo-list)** | A task management and to-do list application. | React, JS | [Source Code](https://github.com/waleedtarbosh/todo-list) |
+| **[Asal Project](https://github.com/waleedtarbosh/Asal-reactproject-waleed)** | A dynamic React-based web application. | React, JS | [Source Code](https://github.com/waleedtarbosh/Asal-reactproject-waleed) |
+| **[Living the Simple Life](https://github.com/waleedtarbosh/Living-the-simple-life-React)** | A responsive blog website built with React. | React, CSS | [Source Code](https://github.com/waleedtarbosh/Living-the-simple-life-React) |
+
+#### 🍦 Vanilla Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[CRUDS](https://github.com/waleedtarbosh/CRUDS)** | A complete product management system with Create, Read, Update, Delete, and Search functionality. | Vanilla JS, HTML, CSS | [Source Code](https://github.com/waleedtarbosh/CRUDS) |
+| **[ProSports](https://github.com/waleedtarbosh/Advanced-Pre-Work-ProSports)** | A dynamic football stats website powered by an external API. | Vanilla JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Advanced-Pre-Work-ProSports) |
 | **[Medical Center](https://github.com/waleedtarbosh/MedicalCenter)** | An informational website and portal for a medical center. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/MedicalCenter) |
 | **[Portfolio Bootstrap](https://github.com/waleedtarbosh/PortfolioBootstrap)** | A responsive personal developer portfolio built with Bootstrap. | HTML, Bootstrap | [Source Code](https://github.com/waleedtarbosh/PortfolioBootstrap) |
 | **[Agrica](https://github.com/waleedtarbosh/Agrica)** | An agriculture-focused web project with clean UI. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Agrica) |
-| **[ProSports (Pre-Work)](https://github.com/waleedtarbosh/Advanced-Pre-Work)** | A dynamic football stats website powered by API-Football. | JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/Advanced-Pre-Work) |
-| **[Todo List](https://github.com/waleedtarbosh/todo-list)** | A task management and to-do list application. | React, JS | [Source Code](https://github.com/waleedtarbosh/todo-list) |
+| **[TimeZone](https://github.com/waleedtarbosh/TimeZone)** | A time tracking or timezone management application. | CSS, HTML | [Source Code](https://github.com/waleedtarbosh/TimeZone) |
+| **[Family Bakery](https://github.com/waleedtarbosh/FamilyBakerywebsite)** | A responsive promotional website for a family bakery. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/FamilyBakerywebsite) |
+| **[Bubble Sorting Visualizer](https://github.com/waleedtarbosh/Bubble-Sorting-Algorithms-Visualizer)** | An interactive tool to visualize the bubble sort algorithm. | Vanilla JS, CSS | [Source Code](https://github.com/waleedtarbosh/Bubble-Sorting-Algorithms-Visualizer) |
+| **[Blackjack Game](https://github.com/waleedtarbosh/Blackjack-Game)** | A classic Blackjack card game logic implementation. | Vanilla JS, HTML | [Source Code](https://github.com/waleedtarbosh/Blackjack-Game) |
+| **[Subway Passenger Counter](https://github.com/waleedtarbosh/Subway-Passenger-Counter)** | A simple passenger counter application. | Vanilla JS, HTML | [Source Code](https://github.com/waleedtarbosh/Subway-Passenger-Counter) |
+| **[Bookmark Extension](https://github.com/waleedtarbosh/bookmark-chrome-extension)** | A practical Chrome extension for managing and saving bookmarks. | Vanilla JS, HTML | [Source Code](https://github.com/waleedtarbosh/bookmark-chrome-extension) |
+| **[Survey Form](https://github.com/waleedtarbosh/Survey-Form)** | A responsive user survey form. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Survey-Form) |
+| **[Technical Documentation](https://github.com/waleedtarbosh/Technical-Documentation-Page)** | A structured page for presenting technical documentation. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Technical-Documentation-Page) |
 
-#### 👥 Team Projects
+### 👥 Team Projects
+
+#### ⚛️ React Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[E-Commerce Platform](https://github.com/waleedtarbosh/E-commerce)** | A collaborative e-commerce application with shopping cart features. | React, JS | [Source Code](https://github.com/waleedtarbosh/E-commerce) |
+
+#### 🍦 Vanilla Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Travel Website](https://github.com/waleedtarbosh/travel-website-with-team)** | A collaborative travel agency website with a responsive design. | Vanilla JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/travel-website-with-team) |
 
 ---
 
