@@ -202,11 +202,6 @@
 | :--- | :--- | :--- | :--- |
 | **[Travel Website](https://github.com/waleedtarbosh/travel-website-with-team)** | A collaborative travel agency website with a responsive design. | Vanilla JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/travel-website-with-team) |
 
-### 🌐 Open Source Contributions
-
-| Project Name | Contribution / Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[AI Job Search](https://github.com/waleedtarbosh/ai-job-search)** | Contributed to the development of this AI job application framework. | TypeScript, AI (Claude) | [Source Code](https://github.com/waleedtarbosh/ai-job-search) |
 
 ---
 
