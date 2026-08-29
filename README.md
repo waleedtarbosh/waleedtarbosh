@@ -94,6 +94,7 @@
 <table>
 <tr>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" /><br><sub><b>Sanity</b></sub></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /><br><sub><b>phpMyAdmin</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
@@ -155,6 +156,7 @@
 | **[Todo List](https://github.com/waleedtarbosh/todo-list)** | A task management and to-do list application. | React, JS | [Source Code](https://github.com/waleedtarbosh/todo-list) |
 | **[Asal Project](https://github.com/waleedtarbosh/Asal-reactproject-waleed)** | A dynamic React-based web application. | React, JS | [Source Code](https://github.com/waleedtarbosh/Asal-reactproject-waleed) |
 | **[Living the Simple Life](https://github.com/waleedtarbosh/Living-the-simple-life-React)** | A responsive blog website built with React. | React, CSS | [Source Code](https://github.com/waleedtarbosh/Living-the-simple-life-React) |
+| **[Movie Land](https://github.com/waleedtarbosh/Movie-Land)** | A movie search and discovery application. | React, JS | [Source Code](https://github.com/waleedtarbosh/Movie-Land) |
 
 #### 🍦 Vanilla Projects
 | Project Name | Description | Tech Stack | Links |
@@ -173,6 +175,21 @@
 | **[Survey Form](https://github.com/waleedtarbosh/Survey-Form)** | A responsive user survey form. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Survey-Form) |
 | **[Technical Documentation](https://github.com/waleedtarbosh/Technical-Documentation-Page)** | A structured page for presenting technical documentation. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Technical-Documentation-Page) |
 
+#### ⚙️ Backend & CLI Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Log Ingestion Service](https://github.com/waleedtarbosh/log-ingestion-service-last-v)** | A high-throughput Log Ingestion Service (15,000+ ops/sec) with blocking backpressure. | Node.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/log-ingestion-service-last-v) |
+| **[Chirpy REST API](https://github.com/waleedtarbosh/chirpy-backend-rest-api)** | A robust RESTful API featuring JWT authentication, webhooks, and database migrations. | Express.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/chirpy-backend-rest-api) |
+| **[Gator CLI](https://github.com/waleedtarbosh/gator-cli)** | A robust CLI tool for aggregating RSS feeds. | Node.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/gator-cli) |
+| **[Pokedex CLI](https://github.com/waleedtarbosh/pokedex-cli)** | An interactive Pokedex CLI built as a REPL to explore and catch Pokémon from the terminal. | Node.js, TypeScript | [Source Code](https://github.com/waleedtarbosh/pokedex-cli) |
+
+#### 🤖 AI & Python Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[AI Agent Project](https://github.com/waleedtarbosh/ai-agent-project-python)** | An AI agent implementation project. | Python | [Source Code](https://github.com/waleedtarbosh/ai-agent-project-python) |
+
+
+
 ### 👥 Team Projects
 
 #### ⚛️ React Projects
@@ -184,6 +201,12 @@
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[Travel Website](https://github.com/waleedtarbosh/travel-website-with-team)** | A collaborative travel agency website with a responsive design. | Vanilla JS, CSS, HTML | [Source Code](https://github.com/waleedtarbosh/travel-website-with-team) |
+
+### 🌐 Open Source Contributions
+
+| Project Name | Contribution / Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[AI Job Search](https://github.com/waleedtarbosh/ai-job-search)** | Contributed to the development of this AI job application framework. | TypeScript, AI (Claude) | [Source Code](https://github.com/waleedtarbosh/ai-job-search) |
 
 ---
 
