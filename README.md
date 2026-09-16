@@ -158,6 +158,20 @@
 | **[Living the Simple Life](https://github.com/waleedtarbosh/Living-the-simple-life-React)** | A responsive blog website built with React. | React, CSS | [Source Code](https://github.com/waleedtarbosh/Living-the-simple-life-React) |
 | **[Movie Land](https://github.com/waleedtarbosh/Movie-Land)** | A movie search and discovery application. | React, JS | [Source Code](https://github.com/waleedtarbosh/Movie-Land) |
 
+#### ⚙️ Backend & CLI Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Secure Task Management REST API](https://github.com/waleedtarbosh/node-homework)** | A secure backend Task Management application featuring dual-token security (JWT + CSRF), automated testing, and a custom soft-delete architecture. | Node.js, Express, Prisma ORM, PostgreSQL, Jest, Supertest | [Source Code](https://github.com/waleedtarbosh/node-homework) • [Live Demo](https://node-homework-7qk5.onrender.com) |
+| **[Log Ingestion Service](https://github.com/waleedtarbosh/log-ingestion-service-last-v)** | A high-throughput Log Ingestion Service (15,000+ ops/sec) with blocking backpressure. | Node.js (TS), Fastify, PostgreSQL, Vitest, Docker | [Source Code](https://github.com/waleedtarbosh/log-ingestion-service-last-v) |
+| **[Chirpy REST API](https://github.com/waleedtarbosh/chirpy-backend-rest-api)** | A robust RESTful API featuring JWT authentication, webhooks, and database migrations. | Node.js (TS), Express, PostgreSQL, Drizzle ORM, JWT, Vitest | [Source Code](https://github.com/waleedtarbosh/chirpy-backend-rest-api) |
+| **[Gator CLI](https://github.com/waleedtarbosh/gator-cli)** | A robust CLI tool for aggregating RSS feeds. | Node.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/gator-cli) |
+| **[Pokedex CLI](https://github.com/waleedtarbosh/pokedex-cli)** | An interactive Pokedex CLI built as a REPL to explore and catch Pokémon from the terminal. | Node.js, TypeScript | [Source Code](https://github.com/waleedtarbosh/pokedex-cli) |
+
+#### 🤖 AI & Python Projects
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[AI Agent Project](https://github.com/waleedtarbosh/ai-agent-project-python)** | An AI agent implementation project. | Python | [Source Code](https://github.com/waleedtarbosh/ai-agent-project-python) |
+
 #### 🍦 Vanilla Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -174,20 +188,6 @@
 | **[Bookmark Extension](https://github.com/waleedtarbosh/bookmark-chrome-extension)** | A practical Chrome extension for managing and saving bookmarks. | Vanilla JS, HTML | [Source Code](https://github.com/waleedtarbosh/bookmark-chrome-extension) |
 | **[Survey Form](https://github.com/waleedtarbosh/Survey-Form)** | A responsive user survey form. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Survey-Form) |
 | **[Technical Documentation](https://github.com/waleedtarbosh/Technical-Documentation-Page)** | A structured page for presenting technical documentation. | HTML, CSS | [Source Code](https://github.com/waleedtarbosh/Technical-Documentation-Page) |
-
-#### ⚙️ Backend & CLI Projects
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Secure Task Management REST API](https://github.com/waleedtarbosh/node-homework)** | A secure backend Task Management application featuring dual-token security (JWT + CSRF), automated testing, and a custom soft-delete architecture. | Node.js, Express, Prisma ORM, PostgreSQL, Jest, Supertest | [Source Code](https://github.com/waleedtarbosh/node-homework) • [Live Demo](https://node-homework-7qk5.onrender.com) |
-| **[Log Ingestion Service](https://github.com/waleedtarbosh/log-ingestion-service-last-v)** | A high-throughput Log Ingestion Service (15,000+ ops/sec) with blocking backpressure. | Node.js (TS), Fastify, PostgreSQL, Vitest, Docker | [Source Code](https://github.com/waleedtarbosh/log-ingestion-service-last-v) |
-| **[Chirpy REST API](https://github.com/waleedtarbosh/chirpy-backend-rest-api)** | A robust RESTful API featuring JWT authentication, webhooks, and database migrations. | Node.js (TS), Express, PostgreSQL, Drizzle ORM, JWT, Vitest | [Source Code](https://github.com/waleedtarbosh/chirpy-backend-rest-api) |
-| **[Gator CLI](https://github.com/waleedtarbosh/gator-cli)** | A robust CLI tool for aggregating RSS feeds. | Node.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/gator-cli) |
-| **[Pokedex CLI](https://github.com/waleedtarbosh/pokedex-cli)** | An interactive Pokedex CLI built as a REPL to explore and catch Pokémon from the terminal. | Node.js, TypeScript | [Source Code](https://github.com/waleedtarbosh/pokedex-cli) |
-
-#### 🤖 AI & Python Projects
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[AI Agent Project](https://github.com/waleedtarbosh/ai-agent-project-python)** | An AI agent implementation project. | Python | [Source Code](https://github.com/waleedtarbosh/ai-agent-project-python) |
 
 
 
