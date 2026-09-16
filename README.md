@@ -178,6 +178,7 @@
 #### ⚙️ Backend & CLI Projects
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **[Secure Task Management REST API](https://github.com/waleedtarbosh/node-homework)** | A secure, full-stack Task Management application featuring dual-token authentication, automated integration testing, and a custom soft-delete architecture. | Node.js, Express, Prisma ORM, PostgreSQL, Jest, Supertest | [Source Code](https://github.com/waleedtarbosh/node-homework) • [Live Demo](https://node-homework-7qk5.onrender.com) |
 | **[Log Ingestion Service](https://github.com/waleedtarbosh/log-ingestion-service-last-v)** | A high-throughput Log Ingestion Service (15,000+ ops/sec) with blocking backpressure. | Node.js (TS), Fastify, PostgreSQL, Vitest, Docker | [Source Code](https://github.com/waleedtarbosh/log-ingestion-service-last-v) |
 | **[Chirpy REST API](https://github.com/waleedtarbosh/chirpy-backend-rest-api)** | A robust RESTful API featuring JWT authentication, webhooks, and database migrations. | Node.js (TS), Express, PostgreSQL, Drizzle ORM, JWT, Vitest | [Source Code](https://github.com/waleedtarbosh/chirpy-backend-rest-api) |
 | **[Gator CLI](https://github.com/waleedtarbosh/gator-cli)** | A robust CLI tool for aggregating RSS feeds. | Node.js, PostgreSQL, TypeScript | [Source Code](https://github.com/waleedtarbosh/gator-cli) |
